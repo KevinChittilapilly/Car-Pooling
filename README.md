@@ -6,6 +6,9 @@ Technology Stack Used: React, Spring, HTML, CSS, Bootstrap, Javascript, MySQL
 
 We have used React as our Frontend and MySQL as the backend and connected both using Spring Framework
 
+7 mins version: [DQN for flappy bird](https://drive.google.com/file/d/1OevbkNGI7DsCh7XMxPaaC-9OKcmY5Bhq/view?usp=sharing)
+
+
 # Key Features of this Website
 
 1. Secured Login/Logout features using <b>Oauth</b>. Sign-in using gmail is also enabled.
