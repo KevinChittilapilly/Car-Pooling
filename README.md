@@ -6,7 +6,7 @@ Technology Stack Used: React, Spring, HTML, CSS, Bootstrap, Javascript, MySQL
 
 We have used React as our Frontend and MySQL as the backend and connected both using Spring Framework
 
-[![Demo Doccou alpha](https://gifs.com/gif/carpooling-71mLDj)](https://www.youtube.com/watch?v=ek1j272iAmc)
+
 
 # Key Features of this Website
 
