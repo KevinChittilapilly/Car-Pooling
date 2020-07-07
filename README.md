@@ -7,6 +7,14 @@ Technology Stack Used: React, Spring, HTML, CSS, Bootstrap, Javascript, MySQL
 We have used React as our Frontend and MySQL as the backend and connected both using Spring Framework
 
 
+# Software Required
+
+1. VSCode
+
+2. MySql Workbench
+
+3. Node
+
 
 # Key Features of this Website
 
@@ -61,7 +69,9 @@ npm start
 ```
 8. Open the two folders in spring-backend in VSCode
 
-9. Run both the spring projects using the following command
+9. Create two empty database in MySQL Workbench and use those links in the application.properties file of spring projects
+
+10. Run both the spring projects using the following command
 ```
 mvn spring-boot:run
 ```
